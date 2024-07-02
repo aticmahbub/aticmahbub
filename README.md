@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Atic Mahbub!
-<a href='https://www.linkedin.com/in/aticmahbub/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/aticmahbub/aticmahbub/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/aticmahbub/'><img align='left' alt="linkedin" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fen-us%2Fdetail%2F9wzdncrfj4q7&psig=AOvVaw1XfoH4pG62dvekjQIy32eW&ust=1720012256452000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLihnI-3iIcDFQAAAAAdAAAAABAE" height='18px'/></a>
 <a href='https://twitter.com/atic_mahbub/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/aticmahbub/aticmahbub/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/aticmahbub/aticmahbub/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
