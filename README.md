@@ -40,9 +40,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/aticmahbub/flower-shop-project" target="_blank"> <img alt="flower-shop-project" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/aticmahbub/B8A2-Gamer-Zone-Website" target="_blank"> <img alt="Gamer-Zone-Website" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/aticmahbub/penguin-fashion-website" target="_blank"> <img alt="penguin-fashion-website" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/aticmahbub/tea-house-website" target="_blank"> <img alt="tea-house-website" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/aticmahbub/fruit-brust-ladning-page-website" target="_blank"> <img alt="fruit-brust-ladning-page-website" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/aticmahbub/Happy-New-Year" target="_blank"> <img alt="Happy-New-Year" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="https://github.com/aticmahbub/flower-shop-project" target="_blank"></a>
+<a href="https://github.com/aticmahbub/B8A2-Gamer-Zone-Website" target="_blank"></a>
+<a href="https://github.com/aticmahbub/penguin-fashion-website" target="_blank"></a>
+<a href="https://github.com/aticmahbub/tea-house-website" target="_blank"></a>
+<a href="https://github.com/aticmahbub/fruit-brust-ladning-page-website" target="_blank"></a>
+<a href="https://github.com/aticmahbub/Happy-New-Year" target="_blank"></a>
