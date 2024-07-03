@@ -37,12 +37,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 ![Atic's GitHub stats](https://github-readme-stats.vercel.app/api?username=aticmahbub&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticmahbub)](https://github.com/aticmahbub/github-readme-stats)
-<br>
+<be>
+
 
 ### 🛠️ My Projects
-<a href="https://github.com/aticmahbub/flower-shop-project" target="_blank"></a>
-<a href="https://github.com/aticmahbub/B8A2-Gamer-Zone-Website" target="_blank"></a>
-<a href="https://github.com/aticmahbub/penguin-fashion-website" target="_blank"></a>
-<a href="https://github.com/aticmahbub/tea-house-website" target="_blank"></a>
-<a href="https://github.com/aticmahbub/fruit-brust-ladning-page-website" target="_blank"></a>
-<a href="https://github.com/aticmahbub/Happy-New-Year" target="_blank"></a>
+<a href="https://github.com/aticmahbub/flower-shop-project" target="_blank">flower-shop-project</a>
+<a href="https://github.com/aticmahbub/B8A2-Gamer-Zone-Website" target="_blank">Gamer-Zone-Website</a>
+<a href="https://github.com/aticmahbub/penguin-fashion-website" target="_blank">penguin-fashion-website</a>
+<a href="https://github.com/aticmahbub/tea-house-website" target="_blank">tea-house-website</a>
+<a href="https://github.com/aticmahbub/fruit-brust-ladning-page-website" target="_blank">fruit-brust-ladning-page-website</a>
+<a href="https://github.com/aticmahbub/Happy-New-Year" target="_blank">Happy-New-Year</a>
