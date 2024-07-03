@@ -42,7 +42,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aticmahbub&hide=contribs,prs)
 <br>
 
 ### 🛠️ My Projects
