@@ -35,14 +35,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aticmahbub)](https://github.com/aticmahbub/github-readme-stats)
-![](https://raw.githubusercontent.com/aticmahbub/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![Stats Overview](https://raw.githubusercontent.com/aticmahbub/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/aticmahbub/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aticmahbub&hide=contribs,prs)
 <br>
 
 ### 🛠️ My Projects
