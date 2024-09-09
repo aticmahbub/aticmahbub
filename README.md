@@ -39,6 +39,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aticmahbub)](https://github.com/aticmahbub/github-readme-stats)
 <be>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aticmahbub)](https://git.io/streak-stats)
 
 ### 🛠️ My Projects
 <a href="https://github.com/aticmahbub/flower-shop-project" target="_blank">flower-shop-project</a>
