@@ -41,7 +41,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 [![wakatime](https://wakatime.com/badge/user/d0f9b146-b759-49e9-b33a-5c6ac2f5edce.svg)](https://wakatime.com/@d0f9b146-b759-49e9-b33a-5c6ac2f5edce)
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aticmahbub)](https://git.io/streak-stats)
+
 
 ### 🛠️ My Projects
 <a href="https://github.com/aticmahbub/flower-shop-project" target="_blank">flower-shop-project</a>
