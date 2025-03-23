@@ -22,6 +22,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=aticmahbub&label=Profile%20views&color=0e75b6&style=flat" alt="aticmahbub" /> </span> 
+
+
 ### 🔨 Languages and Tools:
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
