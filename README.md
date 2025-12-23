@@ -48,4 +48,4 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 🛠️ My Projects
-<a href="https://github.com/aticmahbub?tab=repositories" target="_blank"></a>
+<a href="https://github.com/aticmahbub?tab=repositories" target="_blank">Repo</a>
